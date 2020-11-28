@@ -1,7 +1,7 @@
 # This project is a copy of VVNoodle's orginal bot. His buys the PS5 Digital Edition, while mine focues on the main one.
 Follow his install guide except in step 3 change git clone https://github.com/VVNoodle/PS5bot to 
 
-# git clonehttps://github.com/bboy11501/ps5targetbot
+# git clone https://github.com/bboy11501/ps5targetbot
 
 
 
